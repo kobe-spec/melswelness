@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add your sitemap line once the site is live, e.g.
+# Sitemap: https://yourname.github.io/melswellness/sitemap.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace every SITE_URL with your live address, e.g.
+     https://yourname.github.io/melswellness   (no trailing slash)
+     then rename this file to sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>SITE_URL/</loc><priority>1.0</priority></url>
+  <url><loc>SITE_URL/services.html</loc><priority>0.9</priority></url>
+  <url><loc>SITE_URL/restora-pelvic-floor-chair.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/lymphatic-drainage-massage.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/post-op-lymphatic-massage.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/signature-massage.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/couples-massage.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/reflexology.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/3-in-1-infrared-red-light-pemf.html</loc><priority>0.8</priority></url>
+  <url><loc>SITE_URL/nano-vi.html</loc><priority>0.8</priority></url>
+</urlset>
